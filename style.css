@@ -1,0 +1,38 @@
+corps {
+    Rembourrage: 20px ;
+}
+
+. Sous-conteneur {
+    affichage: flex;
+    flex-direction: colonne;
+    align-items: centre;
+    justify-content: espace-uniformément;
+    couleur de fond: AliceBlue;
+    bordure: 1px noir uni;
+    Rayon de bordure: 10%;
+    Rembourrage: 25px;
+}
+
+. citer {
+    Rembourrage: 5px;
+    couleur de fond: blanc;
+}
+
+entrée, bouton {
+    Largeur: 80%;
+}
+
+table {
+    bordure: 1px noir uni;
+    Rayon de bordure: 50%;
+}
+
+Ul {
+    style de liste: aucun;
+    couleur: aqua;
+}
+
+H3 {
+    font-size: 20px;
+    couleur: #CCC;
+}
